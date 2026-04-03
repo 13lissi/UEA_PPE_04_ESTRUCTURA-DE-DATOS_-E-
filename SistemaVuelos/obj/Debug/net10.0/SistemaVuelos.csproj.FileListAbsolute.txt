@@ -1,0 +1,15 @@
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_PPE_04_ESTRUCTURA-DE-DATOS_-E-\SistemaVuelos\bin\Debug\net10.0\SistemaVuelos.exe
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_PPE_04_ESTRUCTURA-DE-DATOS_-E-\SistemaVuelos\bin\Debug\net10.0\SistemaVuelos.deps.json
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_PPE_04_ESTRUCTURA-DE-DATOS_-E-\SistemaVuelos\bin\Debug\net10.0\SistemaVuelos.runtimeconfig.json
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_PPE_04_ESTRUCTURA-DE-DATOS_-E-\SistemaVuelos\bin\Debug\net10.0\SistemaVuelos.dll
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_PPE_04_ESTRUCTURA-DE-DATOS_-E-\SistemaVuelos\bin\Debug\net10.0\SistemaVuelos.pdb
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_PPE_04_ESTRUCTURA-DE-DATOS_-E-\SistemaVuelos\obj\Debug\net10.0\SistemaVuelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_PPE_04_ESTRUCTURA-DE-DATOS_-E-\SistemaVuelos\obj\Debug\net10.0\SistemaVuelos.AssemblyInfoInputs.cache
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_PPE_04_ESTRUCTURA-DE-DATOS_-E-\SistemaVuelos\obj\Debug\net10.0\SistemaVuelos.AssemblyInfo.cs
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_PPE_04_ESTRUCTURA-DE-DATOS_-E-\SistemaVuelos\obj\Debug\net10.0\SistemaVuelos.csproj.CoreCompileInputs.cache
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_PPE_04_ESTRUCTURA-DE-DATOS_-E-\SistemaVuelos\obj\Debug\net10.0\SistemaVuelos.sourcelink.json
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_PPE_04_ESTRUCTURA-DE-DATOS_-E-\SistemaVuelos\obj\Debug\net10.0\SistemaVuelos.dll
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_PPE_04_ESTRUCTURA-DE-DATOS_-E-\SistemaVuelos\obj\Debug\net10.0\refint\SistemaVuelos.dll
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_PPE_04_ESTRUCTURA-DE-DATOS_-E-\SistemaVuelos\obj\Debug\net10.0\SistemaVuelos.pdb
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_PPE_04_ESTRUCTURA-DE-DATOS_-E-\SistemaVuelos\obj\Debug\net10.0\SistemaVuelos.genruntimeconfig.cache
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_PPE_04_ESTRUCTURA-DE-DATOS_-E-\SistemaVuelos\obj\Debug\net10.0\ref\SistemaVuelos.dll

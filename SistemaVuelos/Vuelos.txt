@@ -1,0 +1,103 @@
+# BASE DE DATOS DE VUELOS - Sistema de Rutas
+# Formato: ORIGEN|DESTINO|PRECIO|AEROLINEA|DURACION_HORAS
+# Las líneas que empiezan con # son comentarios
+
+# ============================================================
+# ECUADOR - RUTAS INTERNAS
+# ============================================================
+Quito|Guayaquil|65|Latam|1
+Quito|Cuenca|75|Avianca|1
+Quito|Loja|85|Tame|1.5
+Quito|Manta|80|Latam|1
+Quito|Esmeraldas|70|Saereo|1
+Guayaquil|Quito|60|Latam|1
+Guayaquil|Cuenca|70|Avianca|1
+Guayaquil|Manta|55|Latam|0.5
+Guayaquil|Loja|80|Tame|1.5
+Cuenca|Quito|75|Avianca|1
+Cuenca|Guayaquil|70|Avianca|1
+
+# ============================================================
+# SUDAMÉRICA
+# ============================================================
+Quito|Bogota|150|Latam|2
+Quito|Lima|180|Avianca|3
+Quito|Buenos Aires|420|Latam|7
+Quito|Caracas|200|Conviasa|3
+Bogota|Quito|145|Avianca|2
+Bogota|Lima|190|Avianca|3
+Bogota|Caracas|160|Avianca|2
+Bogota|Santiago|380|Latam|7
+Bogota|Buenos Aires|400|Avianca|8
+Bogota|Sao Paulo|350|Gol|6
+Lima|Quito|175|Latam|3
+Lima|Bogota|185|Latam|3
+Lima|Santiago|180|Sky|3
+Lima|Buenos Aires|220|Latam|4
+Lima|Sao Paulo|310|Latam|5
+Santiago|Lima|175|Sky|3
+Santiago|Buenos Aires|120|JetSmart|2
+Santiago|Bogota|370|Latam|7
+Santiago|Sao Paulo|280|Latam|4
+Buenos Aires|Santiago|115|Aerolineas|2
+Buenos Aires|Lima|215|Latam|4
+Buenos Aires|Sao Paulo|190|Gol|3
+Sao Paulo|Buenos Aires|185|Gol|3
+Sao Paulo|Lima|305|Latam|5
+Sao Paulo|Bogota|340|Avianca|6
+Caracas|Bogota|155|Avianca|2
+Caracas|Quito|195|Conviasa|3
+
+# ============================================================
+# NORTE Y CENTROAMÉRICA
+# ============================================================
+Guayaquil|Miami|310|American Airlines|4
+Quito|Miami|290|American Airlines|4
+Bogota|Miami|260|American Airlines|3
+Lima|Miami|350|American Airlines|6
+Buenos Aires|Miami|480|American Airlines|10
+Miami|Quito|285|American Airlines|4
+Miami|Bogota|255|American Airlines|3
+Miami|New York|150|Delta|3
+Miami|Los Angeles|180|Delta|5
+Miami|Ciudad de Mexico|200|Aeromexico|3
+New York|Miami|145|JetBlue|3
+New York|Los Angeles|200|United|6
+New York|Madrid|490|Iberia|8
+New York|Londres|520|British Airways|7
+New York|Paris|510|Air France|8
+Los Angeles|New York|195|United|6
+Los Angeles|Ciudad de Mexico|150|Aeromexico|4
+Ciudad de Mexico|Miami|195|Aeromexico|3
+Ciudad de Mexico|New York|280|Aeromexico|5
+Ciudad de Mexico|Los Angeles|145|Aeromexico|4
+
+# ============================================================
+# EUROPA
+# ============================================================
+Madrid|Paris|120|Air France|2
+Madrid|Londres|130|Iberia|2
+Madrid|Berlin|150|Lufthansa|3
+Madrid|Roma|140|Vueling|2.5
+Madrid|Amsterdam|135|KLM|2.5
+Madrid|Bogota|460|Iberia|9
+Madrid|Buenos Aires|780|Iberia|13
+Paris|Madrid|115|Air France|2
+Paris|Londres|100|EasyJet|1.5
+Paris|Berlin|140|Lufthansa|2
+Paris|Roma|130|Air France|2
+Paris|New York|500|Air France|8
+Londres|Paris|95|EasyJet|1.5
+Londres|Madrid|125|British Airways|2
+Londres|Berlin|145|British Airways|2.5
+Londres|New York|510|British Airways|7
+Londres|Amsterdam|110|KLM|1
+Berlin|Paris|135|Lufthansa|2
+Berlin|Londres|140|EasyJet|2.5
+Berlin|Amsterdam|110|KLM|1.5
+Berlin|Roma|135|Ryanair|2.5
+Amsterdam|Londres|105|KLM|1
+Amsterdam|Berlin|105|KLM|1.5
+Roma|Madrid|135|Vueling|2.5
+Roma|Paris|125|Air France|2
+Roma|Berlin|130|Ryanair|2.5

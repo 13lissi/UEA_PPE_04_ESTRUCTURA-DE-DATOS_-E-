@@ -1,5 +1,3 @@
-using System;
-
 namespace SistemaVuelos
 {
     // Representa un vuelo (arista dirigida del grafo)

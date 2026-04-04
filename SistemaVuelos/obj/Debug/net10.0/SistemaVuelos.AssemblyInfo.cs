@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaVuelos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9e347d2490f6286d23306356e64ef3603bc0042")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e85a855f968de04cdf236cccb93aaeb5ba1a1094")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaVuelos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaVuelos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

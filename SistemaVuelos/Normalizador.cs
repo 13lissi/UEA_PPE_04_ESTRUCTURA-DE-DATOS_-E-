@@ -1,6 +1,3 @@
-using System;
-using System.Collections.Generic;
-
 namespace SistemaVuelos
 {
     // Solo limpia el input del usuario.

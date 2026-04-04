@@ -1,5 +1,3 @@
-using System.Collections.Generic;
-
 namespace SistemaVuelos
 {
     // Conecta la interfaz de usuario con la lógica del grafo

@@ -1,5 +1,3 @@
-using System.Collections.Generic;
-
 namespace SistemaVuelos
 {
     // Encapsula el resultado del algoritmo de Dijkstra
